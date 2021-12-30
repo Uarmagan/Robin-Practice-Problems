@@ -1,0 +1,19 @@
+{
+  "name": "-robin-practice-problems",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "eslint-config-prettier": "^8.3.0",
+    "jest": "^27.4.5",
+    "prettier": "^2.5.1",
+    "vite": "^2.7.2",
+    "vite-jest": "^0.1.4",
+    "vitest": "^0.0.124"
+  }
+}
